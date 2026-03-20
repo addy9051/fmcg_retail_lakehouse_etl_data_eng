@@ -65,7 +65,7 @@ fmcg-retail-lakehouse-etl/
     ├── 1_setup/                             # Environment & catalog setup
     │   ├── dim_date_table_creation.ipynb    # Date dimension table creation
     │   ├── setup_catalog.ipynb             # Databricks catalog configuration
-    │   └── utilities.ipynb                 # Shared utility functions
+    │   └── utils.ipynb                 # Shared utility functions
     │
     ├── 2_dimension_data_processing/         # Dimension table pipelines
     │   ├── 1_customers_data_processing.ipynb
